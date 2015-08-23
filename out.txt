@@ -1,0 +1,2887 @@
+file /proc/asound/status is not exist!!
+file /proc/mpt/status is not exist!!
+file /proc/dri/status is not exist!!
+file /proc/scsi/status is not exist!!
+file /proc/acpi/status is not exist!!
+file /proc/irq/status is not exist!!
+file /proc/sys/status is not exist!!
+file /proc/bus/status is not exist!!
+file /proc/tty/status is not exist!!
+file /proc/driver/status is not exist!!
+file /proc/fs/status is not exist!!
+file /proc/sysvipc/status is not exist!!
+file /proc/net/status is not exist!!
+path: /proc/self/status
+line: Name:	proc_list 
+line: State:	R (running) 
+line: Tgid:	23065 
+line: Pid:	23065 
+line: PPid:	3958 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: self, Name: proc_list
+path: /proc/1/status
+line: Name:	systemd 
+line: State:	S (sleeping) 
+line: Tgid:	1 
+line: Pid:	1 
+line: PPid:	0 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 1, Name: systemd
+path: /proc/2/status
+line: Name:	kthreadd 
+line: State:	S (sleeping) 
+line: Tgid:	2 
+line: Pid:	2 
+line: PPid:	0 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 2, Name: kthreadd
+path: /proc/3/status
+line: Name:	ksoftirqd/0 
+line: State:	S (sleeping) 
+line: Tgid:	3 
+line: Pid:	3 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3, Name: ksoftirqd/0
+path: /proc/5/status
+line: Name:	kworker/0:0H 
+line: State:	S (sleeping) 
+line: Tgid:	5 
+line: Pid:	5 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 5, Name: kworker/0:0H
+path: /proc/7/status
+line: Name:	migration/0 
+line: State:	S (sleeping) 
+line: Tgid:	7 
+line: Pid:	7 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 7, Name: migration/0
+path: /proc/8/status
+line: Name:	rcuc/0 
+line: State:	S (sleeping) 
+line: Tgid:	8 
+line: Pid:	8 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 8, Name: rcuc/0
+path: /proc/9/status
+line: Name:	rcub/0 
+line: State:	S (sleeping) 
+line: Tgid:	9 
+line: Pid:	9 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 9, Name: rcub/0
+path: /proc/10/status
+line: Name:	rcub/1 
+line: State:	S (sleeping) 
+line: Tgid:	10 
+line: Pid:	10 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 10, Name: rcub/1
+path: /proc/11/status
+line: Name:	rcu_preempt 
+line: State:	S (sleeping) 
+line: Tgid:	11 
+line: Pid:	11 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 11, Name: rcu_preempt
+path: /proc/12/status
+line: Name:	rcuop/0 
+line: State:	S (sleeping) 
+line: Tgid:	12 
+line: Pid:	12 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 12, Name: rcuop/0
+path: /proc/13/status
+line: Name:	rcuop/1 
+line: State:	S (sleeping) 
+line: Tgid:	13 
+line: Pid:	13 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 13, Name: rcuop/1
+path: /proc/14/status
+line: Name:	rcuop/2 
+line: State:	S (sleeping) 
+line: Tgid:	14 
+line: Pid:	14 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 14, Name: rcuop/2
+path: /proc/15/status
+line: Name:	rcuop/3 
+line: State:	S (sleeping) 
+line: Tgid:	15 
+line: Pid:	15 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 15, Name: rcuop/3
+path: /proc/16/status
+line: Name:	rcuop/4 
+line: State:	S (sleeping) 
+line: Tgid:	16 
+line: Pid:	16 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 16, Name: rcuop/4
+path: /proc/17/status
+line: Name:	rcuop/5 
+line: State:	S (sleeping) 
+line: Tgid:	17 
+line: Pid:	17 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 17, Name: rcuop/5
+path: /proc/18/status
+line: Name:	rcuop/6 
+line: State:	S (sleeping) 
+line: Tgid:	18 
+line: Pid:	18 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 18, Name: rcuop/6
+path: /proc/19/status
+line: Name:	rcuop/7 
+line: State:	S (sleeping) 
+line: Tgid:	19 
+line: Pid:	19 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 19, Name: rcuop/7
+path: /proc/20/status
+line: Name:	rcuop/8 
+line: State:	S (sleeping) 
+line: Tgid:	20 
+line: Pid:	20 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 20, Name: rcuop/8
+path: /proc/21/status
+line: Name:	rcuop/9 
+line: State:	S (sleeping) 
+line: Tgid:	21 
+line: Pid:	21 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 21, Name: rcuop/9
+path: /proc/22/status
+line: Name:	rcuop/10 
+line: State:	S (sleeping) 
+line: Tgid:	22 
+line: Pid:	22 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 22, Name: rcuop/10
+path: /proc/23/status
+line: Name:	rcuop/11 
+line: State:	S (sleeping) 
+line: Tgid:	23 
+line: Pid:	23 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 23, Name: rcuop/11
+path: /proc/24/status
+line: Name:	rcuop/12 
+line: State:	S (sleeping) 
+line: Tgid:	24 
+line: Pid:	24 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 24, Name: rcuop/12
+path: /proc/25/status
+line: Name:	rcuop/13 
+line: State:	S (sleeping) 
+line: Tgid:	25 
+line: Pid:	25 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 25, Name: rcuop/13
+path: /proc/26/status
+line: Name:	rcuop/14 
+line: State:	S (sleeping) 
+line: Tgid:	26 
+line: Pid:	26 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 26, Name: rcuop/14
+path: /proc/27/status
+line: Name:	rcuop/15 
+line: State:	S (sleeping) 
+line: Tgid:	27 
+line: Pid:	27 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 27, Name: rcuop/15
+path: /proc/28/status
+line: Name:	rcuop/16 
+line: State:	S (sleeping) 
+line: Tgid:	28 
+line: Pid:	28 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 28, Name: rcuop/16
+path: /proc/29/status
+line: Name:	rcuop/17 
+line: State:	S (sleeping) 
+line: Tgid:	29 
+line: Pid:	29 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 29, Name: rcuop/17
+path: /proc/30/status
+line: Name:	rcuop/18 
+line: State:	S (sleeping) 
+line: Tgid:	30 
+line: Pid:	30 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 30, Name: rcuop/18
+path: /proc/31/status
+line: Name:	rcuop/19 
+line: State:	S (sleeping) 
+line: Tgid:	31 
+line: Pid:	31 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 31, Name: rcuop/19
+path: /proc/32/status
+line: Name:	rcuop/20 
+line: State:	S (sleeping) 
+line: Tgid:	32 
+line: Pid:	32 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 32, Name: rcuop/20
+path: /proc/33/status
+line: Name:	rcuop/21 
+line: State:	S (sleeping) 
+line: Tgid:	33 
+line: Pid:	33 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 33, Name: rcuop/21
+path: /proc/34/status
+line: Name:	rcuop/22 
+line: State:	S (sleeping) 
+line: Tgid:	34 
+line: Pid:	34 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 34, Name: rcuop/22
+path: /proc/35/status
+line: Name:	rcuop/23 
+line: State:	S (sleeping) 
+line: Tgid:	35 
+line: Pid:	35 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 35, Name: rcuop/23
+path: /proc/36/status
+line: Name:	rcuop/24 
+line: State:	S (sleeping) 
+line: Tgid:	36 
+line: Pid:	36 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 36, Name: rcuop/24
+path: /proc/37/status
+line: Name:	rcuop/25 
+line: State:	S (sleeping) 
+line: Tgid:	37 
+line: Pid:	37 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 37, Name: rcuop/25
+path: /proc/38/status
+line: Name:	rcuop/26 
+line: State:	S (sleeping) 
+line: Tgid:	38 
+line: Pid:	38 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 38, Name: rcuop/26
+path: /proc/39/status
+line: Name:	rcuop/27 
+line: State:	S (sleeping) 
+line: Tgid:	39 
+line: Pid:	39 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 39, Name: rcuop/27
+path: /proc/40/status
+line: Name:	rcuop/28 
+line: State:	S (sleeping) 
+line: Tgid:	40 
+line: Pid:	40 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 40, Name: rcuop/28
+path: /proc/41/status
+line: Name:	rcuop/29 
+line: State:	S (sleeping) 
+line: Tgid:	41 
+line: Pid:	41 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 41, Name: rcuop/29
+path: /proc/42/status
+line: Name:	rcuop/30 
+line: State:	S (sleeping) 
+line: Tgid:	42 
+line: Pid:	42 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 42, Name: rcuop/30
+path: /proc/43/status
+line: Name:	rcuop/31 
+line: State:	S (sleeping) 
+line: Tgid:	43 
+line: Pid:	43 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 43, Name: rcuop/31
+path: /proc/44/status
+line: Name:	rcuop/32 
+line: State:	S (sleeping) 
+line: Tgid:	44 
+line: Pid:	44 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 44, Name: rcuop/32
+path: /proc/45/status
+line: Name:	rcuop/33 
+line: State:	S (sleeping) 
+line: Tgid:	45 
+line: Pid:	45 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 45, Name: rcuop/33
+path: /proc/46/status
+line: Name:	rcuop/34 
+line: State:	S (sleeping) 
+line: Tgid:	46 
+line: Pid:	46 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 46, Name: rcuop/34
+path: /proc/47/status
+line: Name:	rcuop/35 
+line: State:	S (sleeping) 
+line: Tgid:	47 
+line: Pid:	47 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 47, Name: rcuop/35
+path: /proc/48/status
+line: Name:	rcuop/36 
+line: State:	S (sleeping) 
+line: Tgid:	48 
+line: Pid:	48 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 48, Name: rcuop/36
+path: /proc/49/status
+line: Name:	rcuop/37 
+line: State:	S (sleeping) 
+line: Tgid:	49 
+line: Pid:	49 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 49, Name: rcuop/37
+path: /proc/50/status
+line: Name:	rcuop/38 
+line: State:	S (sleeping) 
+line: Tgid:	50 
+line: Pid:	50 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 50, Name: rcuop/38
+path: /proc/51/status
+line: Name:	rcuop/39 
+line: State:	S (sleeping) 
+line: Tgid:	51 
+line: Pid:	51 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 51, Name: rcuop/39
+path: /proc/52/status
+line: Name:	rcuop/40 
+line: State:	S (sleeping) 
+line: Tgid:	52 
+line: Pid:	52 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 52, Name: rcuop/40
+path: /proc/53/status
+line: Name:	rcuop/41 
+line: State:	S (sleeping) 
+line: Tgid:	53 
+line: Pid:	53 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 53, Name: rcuop/41
+path: /proc/54/status
+line: Name:	rcuop/42 
+line: State:	S (sleeping) 
+line: Tgid:	54 
+line: Pid:	54 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 54, Name: rcuop/42
+path: /proc/55/status
+line: Name:	rcuop/43 
+line: State:	S (sleeping) 
+line: Tgid:	55 
+line: Pid:	55 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 55, Name: rcuop/43
+path: /proc/56/status
+line: Name:	rcuop/44 
+line: State:	S (sleeping) 
+line: Tgid:	56 
+line: Pid:	56 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 56, Name: rcuop/44
+path: /proc/57/status
+line: Name:	rcuop/45 
+line: State:	S (sleeping) 
+line: Tgid:	57 
+line: Pid:	57 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 57, Name: rcuop/45
+path: /proc/58/status
+line: Name:	rcuop/46 
+line: State:	S (sleeping) 
+line: Tgid:	58 
+line: Pid:	58 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 58, Name: rcuop/46
+path: /proc/59/status
+line: Name:	rcuop/47 
+line: State:	S (sleeping) 
+line: Tgid:	59 
+line: Pid:	59 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 59, Name: rcuop/47
+path: /proc/60/status
+line: Name:	rcuop/48 
+line: State:	S (sleeping) 
+line: Tgid:	60 
+line: Pid:	60 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 60, Name: rcuop/48
+path: /proc/61/status
+line: Name:	rcuop/49 
+line: State:	S (sleeping) 
+line: Tgid:	61 
+line: Pid:	61 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 61, Name: rcuop/49
+path: /proc/62/status
+line: Name:	rcuop/50 
+line: State:	S (sleeping) 
+line: Tgid:	62 
+line: Pid:	62 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 62, Name: rcuop/50
+path: /proc/63/status
+line: Name:	rcuop/51 
+line: State:	S (sleeping) 
+line: Tgid:	63 
+line: Pid:	63 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 63, Name: rcuop/51
+path: /proc/64/status
+line: Name:	rcuop/52 
+line: State:	S (sleeping) 
+line: Tgid:	64 
+line: Pid:	64 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 64, Name: rcuop/52
+path: /proc/65/status
+line: Name:	rcuop/53 
+line: State:	S (sleeping) 
+line: Tgid:	65 
+line: Pid:	65 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 65, Name: rcuop/53
+path: /proc/66/status
+line: Name:	rcuop/54 
+line: State:	S (sleeping) 
+line: Tgid:	66 
+line: Pid:	66 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 66, Name: rcuop/54
+path: /proc/67/status
+line: Name:	rcuop/55 
+line: State:	S (sleeping) 
+line: Tgid:	67 
+line: Pid:	67 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 67, Name: rcuop/55
+path: /proc/68/status
+line: Name:	rcuop/56 
+line: State:	S (sleeping) 
+line: Tgid:	68 
+line: Pid:	68 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 68, Name: rcuop/56
+path: /proc/69/status
+line: Name:	rcuop/57 
+line: State:	S (sleeping) 
+line: Tgid:	69 
+line: Pid:	69 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 69, Name: rcuop/57
+path: /proc/70/status
+line: Name:	rcuop/58 
+line: State:	S (sleeping) 
+line: Tgid:	70 
+line: Pid:	70 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 70, Name: rcuop/58
+path: /proc/71/status
+line: Name:	rcuop/59 
+line: State:	S (sleeping) 
+line: Tgid:	71 
+line: Pid:	71 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 71, Name: rcuop/59
+path: /proc/72/status
+line: Name:	rcuop/60 
+line: State:	S (sleeping) 
+line: Tgid:	72 
+line: Pid:	72 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 72, Name: rcuop/60
+path: /proc/73/status
+line: Name:	rcuop/61 
+line: State:	S (sleeping) 
+line: Tgid:	73 
+line: Pid:	73 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 73, Name: rcuop/61
+path: /proc/74/status
+line: Name:	rcuop/62 
+line: State:	S (sleeping) 
+line: Tgid:	74 
+line: Pid:	74 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 74, Name: rcuop/62
+path: /proc/75/status
+line: Name:	rcuop/63 
+line: State:	S (sleeping) 
+line: Tgid:	75 
+line: Pid:	75 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 75, Name: rcuop/63
+path: /proc/76/status
+line: Name:	rcu_bh 
+line: State:	S (sleeping) 
+line: Tgid:	76 
+line: Pid:	76 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 76, Name: rcu_bh
+path: /proc/77/status
+line: Name:	rcuob/0 
+line: State:	S (sleeping) 
+line: Tgid:	77 
+line: Pid:	77 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 77, Name: rcuob/0
+path: /proc/78/status
+line: Name:	rcuob/1 
+line: State:	S (sleeping) 
+line: Tgid:	78 
+line: Pid:	78 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 78, Name: rcuob/1
+path: /proc/79/status
+line: Name:	rcuob/2 
+line: State:	S (sleeping) 
+line: Tgid:	79 
+line: Pid:	79 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 79, Name: rcuob/2
+path: /proc/80/status
+line: Name:	rcuob/3 
+line: State:	S (sleeping) 
+line: Tgid:	80 
+line: Pid:	80 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 80, Name: rcuob/3
+path: /proc/81/status
+line: Name:	rcuob/4 
+line: State:	S (sleeping) 
+line: Tgid:	81 
+line: Pid:	81 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 81, Name: rcuob/4
+path: /proc/82/status
+line: Name:	rcuob/5 
+line: State:	S (sleeping) 
+line: Tgid:	82 
+line: Pid:	82 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 82, Name: rcuob/5
+path: /proc/83/status
+line: Name:	rcuob/6 
+line: State:	S (sleeping) 
+line: Tgid:	83 
+line: Pid:	83 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 83, Name: rcuob/6
+path: /proc/84/status
+line: Name:	rcuob/7 
+line: State:	S (sleeping) 
+line: Tgid:	84 
+line: Pid:	84 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 84, Name: rcuob/7
+path: /proc/85/status
+line: Name:	rcuob/8 
+line: State:	S (sleeping) 
+line: Tgid:	85 
+line: Pid:	85 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 85, Name: rcuob/8
+path: /proc/86/status
+line: Name:	rcuob/9 
+line: State:	S (sleeping) 
+line: Tgid:	86 
+line: Pid:	86 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 86, Name: rcuob/9
+path: /proc/87/status
+line: Name:	rcuob/10 
+line: State:	S (sleeping) 
+line: Tgid:	87 
+line: Pid:	87 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 87, Name: rcuob/10
+path: /proc/88/status
+line: Name:	rcuob/11 
+line: State:	S (sleeping) 
+line: Tgid:	88 
+line: Pid:	88 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 88, Name: rcuob/11
+path: /proc/89/status
+line: Name:	rcuob/12 
+line: State:	S (sleeping) 
+line: Tgid:	89 
+line: Pid:	89 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 89, Name: rcuob/12
+path: /proc/90/status
+line: Name:	rcuob/13 
+line: State:	S (sleeping) 
+line: Tgid:	90 
+line: Pid:	90 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 90, Name: rcuob/13
+path: /proc/91/status
+line: Name:	rcuob/14 
+line: State:	S (sleeping) 
+line: Tgid:	91 
+line: Pid:	91 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 91, Name: rcuob/14
+path: /proc/92/status
+line: Name:	rcuob/15 
+line: State:	S (sleeping) 
+line: Tgid:	92 
+line: Pid:	92 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 92, Name: rcuob/15
+path: /proc/93/status
+line: Name:	rcuob/16 
+line: State:	S (sleeping) 
+line: Tgid:	93 
+line: Pid:	93 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 93, Name: rcuob/16
+path: /proc/94/status
+line: Name:	rcuob/17 
+line: State:	S (sleeping) 
+line: Tgid:	94 
+line: Pid:	94 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 94, Name: rcuob/17
+path: /proc/95/status
+line: Name:	rcuob/18 
+line: State:	S (sleeping) 
+line: Tgid:	95 
+line: Pid:	95 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 95, Name: rcuob/18
+path: /proc/96/status
+line: Name:	rcuob/19 
+line: State:	S (sleeping) 
+line: Tgid:	96 
+line: Pid:	96 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 96, Name: rcuob/19
+path: /proc/97/status
+line: Name:	rcuob/20 
+line: State:	S (sleeping) 
+line: Tgid:	97 
+line: Pid:	97 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 97, Name: rcuob/20
+path: /proc/98/status
+line: Name:	rcuob/21 
+line: State:	S (sleeping) 
+line: Tgid:	98 
+line: Pid:	98 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 98, Name: rcuob/21
+path: /proc/99/status
+line: Name:	rcuob/22 
+line: State:	S (sleeping) 
+line: Tgid:	99 
+line: Pid:	99 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 99, Name: rcuob/22
+path: /proc/100/status
+line: Name:	rcuob/23 
+line: State:	S (sleeping) 
+line: Tgid:	100 
+line: Pid:	100 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 100, Name: rcuob/23
+path: /proc/101/status
+line: Name:	rcuob/24 
+line: State:	S (sleeping) 
+line: Tgid:	101 
+line: Pid:	101 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 101, Name: rcuob/24
+path: /proc/102/status
+line: Name:	rcuob/25 
+line: State:	S (sleeping) 
+line: Tgid:	102 
+line: Pid:	102 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 102, Name: rcuob/25
+path: /proc/103/status
+line: Name:	rcuob/26 
+line: State:	S (sleeping) 
+line: Tgid:	103 
+line: Pid:	103 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 103, Name: rcuob/26
+path: /proc/104/status
+line: Name:	rcuob/27 
+line: State:	S (sleeping) 
+line: Tgid:	104 
+line: Pid:	104 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 104, Name: rcuob/27
+path: /proc/105/status
+line: Name:	rcuob/28 
+line: State:	S (sleeping) 
+line: Tgid:	105 
+line: Pid:	105 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 105, Name: rcuob/28
+path: /proc/106/status
+line: Name:	rcuob/29 
+line: State:	S (sleeping) 
+line: Tgid:	106 
+line: Pid:	106 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 106, Name: rcuob/29
+path: /proc/107/status
+line: Name:	rcuob/30 
+line: State:	S (sleeping) 
+line: Tgid:	107 
+line: Pid:	107 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 107, Name: rcuob/30
+path: /proc/108/status
+line: Name:	rcuob/31 
+line: State:	S (sleeping) 
+line: Tgid:	108 
+line: Pid:	108 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 108, Name: rcuob/31
+path: /proc/109/status
+line: Name:	rcuob/32 
+line: State:	S (sleeping) 
+line: Tgid:	109 
+line: Pid:	109 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 109, Name: rcuob/32
+path: /proc/110/status
+line: Name:	rcuob/33 
+line: State:	S (sleeping) 
+line: Tgid:	110 
+line: Pid:	110 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 110, Name: rcuob/33
+path: /proc/111/status
+line: Name:	rcuob/34 
+line: State:	S (sleeping) 
+line: Tgid:	111 
+line: Pid:	111 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 111, Name: rcuob/34
+path: /proc/112/status
+line: Name:	rcuob/35 
+line: State:	S (sleeping) 
+line: Tgid:	112 
+line: Pid:	112 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 112, Name: rcuob/35
+path: /proc/113/status
+line: Name:	rcuob/36 
+line: State:	S (sleeping) 
+line: Tgid:	113 
+line: Pid:	113 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 113, Name: rcuob/36
+path: /proc/114/status
+line: Name:	rcuob/37 
+line: State:	S (sleeping) 
+line: Tgid:	114 
+line: Pid:	114 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 114, Name: rcuob/37
+path: /proc/115/status
+line: Name:	rcuob/38 
+line: State:	S (sleeping) 
+line: Tgid:	115 
+line: Pid:	115 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 115, Name: rcuob/38
+path: /proc/116/status
+line: Name:	rcuob/39 
+line: State:	S (sleeping) 
+line: Tgid:	116 
+line: Pid:	116 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 116, Name: rcuob/39
+path: /proc/117/status
+line: Name:	rcuob/40 
+line: State:	S (sleeping) 
+line: Tgid:	117 
+line: Pid:	117 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 117, Name: rcuob/40
+path: /proc/118/status
+line: Name:	rcuob/41 
+line: State:	S (sleeping) 
+line: Tgid:	118 
+line: Pid:	118 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 118, Name: rcuob/41
+path: /proc/119/status
+line: Name:	rcuob/42 
+line: State:	S (sleeping) 
+line: Tgid:	119 
+line: Pid:	119 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 119, Name: rcuob/42
+path: /proc/120/status
+line: Name:	rcuob/43 
+line: State:	S (sleeping) 
+line: Tgid:	120 
+line: Pid:	120 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 120, Name: rcuob/43
+path: /proc/121/status
+line: Name:	rcuob/44 
+line: State:	S (sleeping) 
+line: Tgid:	121 
+line: Pid:	121 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 121, Name: rcuob/44
+path: /proc/122/status
+line: Name:	rcuob/45 
+line: State:	S (sleeping) 
+line: Tgid:	122 
+line: Pid:	122 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 122, Name: rcuob/45
+path: /proc/123/status
+line: Name:	rcuob/46 
+line: State:	S (sleeping) 
+line: Tgid:	123 
+line: Pid:	123 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 123, Name: rcuob/46
+path: /proc/124/status
+line: Name:	rcuob/47 
+line: State:	S (sleeping) 
+line: Tgid:	124 
+line: Pid:	124 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 124, Name: rcuob/47
+path: /proc/125/status
+line: Name:	rcuob/48 
+line: State:	S (sleeping) 
+line: Tgid:	125 
+line: Pid:	125 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 125, Name: rcuob/48
+path: /proc/126/status
+line: Name:	rcuob/49 
+line: State:	S (sleeping) 
+line: Tgid:	126 
+line: Pid:	126 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 126, Name: rcuob/49
+path: /proc/127/status
+line: Name:	rcuob/50 
+line: State:	S (sleeping) 
+line: Tgid:	127 
+line: Pid:	127 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 127, Name: rcuob/50
+path: /proc/128/status
+line: Name:	rcuob/51 
+line: State:	S (sleeping) 
+line: Tgid:	128 
+line: Pid:	128 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 128, Name: rcuob/51
+path: /proc/129/status
+line: Name:	rcuob/52 
+line: State:	S (sleeping) 
+line: Tgid:	129 
+line: Pid:	129 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 129, Name: rcuob/52
+path: /proc/130/status
+line: Name:	rcuob/53 
+line: State:	S (sleeping) 
+line: Tgid:	130 
+line: Pid:	130 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 130, Name: rcuob/53
+path: /proc/131/status
+line: Name:	rcuob/54 
+line: State:	S (sleeping) 
+line: Tgid:	131 
+line: Pid:	131 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 131, Name: rcuob/54
+path: /proc/132/status
+line: Name:	rcuob/55 
+line: State:	S (sleeping) 
+line: Tgid:	132 
+line: Pid:	132 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 132, Name: rcuob/55
+path: /proc/133/status
+line: Name:	rcuob/56 
+line: State:	S (sleeping) 
+line: Tgid:	133 
+line: Pid:	133 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 133, Name: rcuob/56
+path: /proc/134/status
+line: Name:	rcuob/57 
+line: State:	S (sleeping) 
+line: Tgid:	134 
+line: Pid:	134 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 134, Name: rcuob/57
+path: /proc/135/status
+line: Name:	rcuob/58 
+line: State:	S (sleeping) 
+line: Tgid:	135 
+line: Pid:	135 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 135, Name: rcuob/58
+path: /proc/136/status
+line: Name:	rcuob/59 
+line: State:	S (sleeping) 
+line: Tgid:	136 
+line: Pid:	136 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 136, Name: rcuob/59
+path: /proc/137/status
+line: Name:	rcuob/60 
+line: State:	S (sleeping) 
+line: Tgid:	137 
+line: Pid:	137 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 137, Name: rcuob/60
+path: /proc/138/status
+line: Name:	rcuob/61 
+line: State:	S (sleeping) 
+line: Tgid:	138 
+line: Pid:	138 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 138, Name: rcuob/61
+path: /proc/139/status
+line: Name:	rcuob/62 
+line: State:	S (sleeping) 
+line: Tgid:	139 
+line: Pid:	139 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 139, Name: rcuob/62
+path: /proc/140/status
+line: Name:	rcuob/63 
+line: State:	S (sleeping) 
+line: Tgid:	140 
+line: Pid:	140 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 140, Name: rcuob/63
+path: /proc/141/status
+line: Name:	rcu_sched 
+line: State:	S (sleeping) 
+line: Tgid:	141 
+line: Pid:	141 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 141, Name: rcu_sched
+path: /proc/142/status
+line: Name:	rcuos/0 
+line: State:	S (sleeping) 
+line: Tgid:	142 
+line: Pid:	142 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 142, Name: rcuos/0
+path: /proc/143/status
+line: Name:	rcuos/1 
+line: State:	S (sleeping) 
+line: Tgid:	143 
+line: Pid:	143 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 143, Name: rcuos/1
+path: /proc/144/status
+line: Name:	rcuos/2 
+line: State:	S (sleeping) 
+line: Tgid:	144 
+line: Pid:	144 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 144, Name: rcuos/2
+path: /proc/145/status
+line: Name:	rcuos/3 
+line: State:	S (sleeping) 
+line: Tgid:	145 
+line: Pid:	145 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 145, Name: rcuos/3
+path: /proc/146/status
+line: Name:	rcuos/4 
+line: State:	S (sleeping) 
+line: Tgid:	146 
+line: Pid:	146 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 146, Name: rcuos/4
+path: /proc/147/status
+line: Name:	rcuos/5 
+line: State:	S (sleeping) 
+line: Tgid:	147 
+line: Pid:	147 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 147, Name: rcuos/5
+path: /proc/148/status
+line: Name:	rcuos/6 
+line: State:	S (sleeping) 
+line: Tgid:	148 
+line: Pid:	148 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 148, Name: rcuos/6
+path: /proc/149/status
+line: Name:	rcuos/7 
+line: State:	S (sleeping) 
+line: Tgid:	149 
+line: Pid:	149 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 149, Name: rcuos/7
+path: /proc/150/status
+line: Name:	rcuos/8 
+line: State:	S (sleeping) 
+line: Tgid:	150 
+line: Pid:	150 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 150, Name: rcuos/8
+path: /proc/151/status
+line: Name:	rcuos/9 
+line: State:	S (sleeping) 
+line: Tgid:	151 
+line: Pid:	151 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 151, Name: rcuos/9
+path: /proc/152/status
+line: Name:	rcuos/10 
+line: State:	S (sleeping) 
+line: Tgid:	152 
+line: Pid:	152 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 152, Name: rcuos/10
+path: /proc/153/status
+line: Name:	rcuos/11 
+line: State:	S (sleeping) 
+line: Tgid:	153 
+line: Pid:	153 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 153, Name: rcuos/11
+path: /proc/154/status
+line: Name:	rcuos/12 
+line: State:	S (sleeping) 
+line: Tgid:	154 
+line: Pid:	154 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 154, Name: rcuos/12
+path: /proc/155/status
+line: Name:	rcuos/13 
+line: State:	S (sleeping) 
+line: Tgid:	155 
+line: Pid:	155 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 155, Name: rcuos/13
+path: /proc/156/status
+line: Name:	rcuos/14 
+line: State:	S (sleeping) 
+line: Tgid:	156 
+line: Pid:	156 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 156, Name: rcuos/14
+path: /proc/157/status
+line: Name:	rcuos/15 
+line: State:	S (sleeping) 
+line: Tgid:	157 
+line: Pid:	157 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 157, Name: rcuos/15
+path: /proc/158/status
+line: Name:	rcuos/16 
+line: State:	S (sleeping) 
+line: Tgid:	158 
+line: Pid:	158 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 158, Name: rcuos/16
+path: /proc/159/status
+line: Name:	rcuos/17 
+line: State:	S (sleeping) 
+line: Tgid:	159 
+line: Pid:	159 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 159, Name: rcuos/17
+path: /proc/160/status
+line: Name:	rcuos/18 
+line: State:	S (sleeping) 
+line: Tgid:	160 
+line: Pid:	160 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 160, Name: rcuos/18
+path: /proc/161/status
+line: Name:	rcuos/19 
+line: State:	S (sleeping) 
+line: Tgid:	161 
+line: Pid:	161 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 161, Name: rcuos/19
+path: /proc/162/status
+line: Name:	rcuos/20 
+line: State:	S (sleeping) 
+line: Tgid:	162 
+line: Pid:	162 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 162, Name: rcuos/20
+path: /proc/163/status
+line: Name:	rcuos/21 
+line: State:	S (sleeping) 
+line: Tgid:	163 
+line: Pid:	163 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 163, Name: rcuos/21
+path: /proc/164/status
+line: Name:	rcuos/22 
+line: State:	S (sleeping) 
+line: Tgid:	164 
+line: Pid:	164 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 164, Name: rcuos/22
+path: /proc/165/status
+line: Name:	rcuos/23 
+line: State:	S (sleeping) 
+line: Tgid:	165 
+line: Pid:	165 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 165, Name: rcuos/23
+path: /proc/166/status
+line: Name:	rcuos/24 
+line: State:	S (sleeping) 
+line: Tgid:	166 
+line: Pid:	166 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 166, Name: rcuos/24
+path: /proc/167/status
+line: Name:	rcuos/25 
+line: State:	S (sleeping) 
+line: Tgid:	167 
+line: Pid:	167 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 167, Name: rcuos/25
+path: /proc/168/status
+line: Name:	rcuos/26 
+line: State:	S (sleeping) 
+line: Tgid:	168 
+line: Pid:	168 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 168, Name: rcuos/26
+path: /proc/169/status
+line: Name:	rcuos/27 
+line: State:	S (sleeping) 
+line: Tgid:	169 
+line: Pid:	169 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 169, Name: rcuos/27
+path: /proc/170/status
+line: Name:	rcuos/28 
+line: State:	S (sleeping) 
+line: Tgid:	170 
+line: Pid:	170 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 170, Name: rcuos/28
+path: /proc/171/status
+line: Name:	rcuos/29 
+line: State:	S (sleeping) 
+line: Tgid:	171 
+line: Pid:	171 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 171, Name: rcuos/29
+path: /proc/172/status
+line: Name:	rcuos/30 
+line: State:	S (sleeping) 
+line: Tgid:	172 
+line: Pid:	172 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 172, Name: rcuos/30
+path: /proc/173/status
+line: Name:	rcuos/31 
+line: State:	S (sleeping) 
+line: Tgid:	173 
+line: Pid:	173 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 173, Name: rcuos/31
+path: /proc/174/status
+line: Name:	rcuos/32 
+line: State:	S (sleeping) 
+line: Tgid:	174 
+line: Pid:	174 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 174, Name: rcuos/32
+path: /proc/175/status
+line: Name:	rcuos/33 
+line: State:	S (sleeping) 
+line: Tgid:	175 
+line: Pid:	175 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 175, Name: rcuos/33
+path: /proc/176/status
+line: Name:	rcuos/34 
+line: State:	S (sleeping) 
+line: Tgid:	176 
+line: Pid:	176 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 176, Name: rcuos/34
+path: /proc/177/status
+line: Name:	rcuos/35 
+line: State:	S (sleeping) 
+line: Tgid:	177 
+line: Pid:	177 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 177, Name: rcuos/35
+path: /proc/178/status
+line: Name:	rcuos/36 
+line: State:	S (sleeping) 
+line: Tgid:	178 
+line: Pid:	178 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 178, Name: rcuos/36
+path: /proc/179/status
+line: Name:	rcuos/37 
+line: State:	S (sleeping) 
+line: Tgid:	179 
+line: Pid:	179 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 179, Name: rcuos/37
+path: /proc/180/status
+line: Name:	rcuos/38 
+line: State:	S (sleeping) 
+line: Tgid:	180 
+line: Pid:	180 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 180, Name: rcuos/38
+path: /proc/181/status
+line: Name:	rcuos/39 
+line: State:	S (sleeping) 
+line: Tgid:	181 
+line: Pid:	181 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 181, Name: rcuos/39
+path: /proc/182/status
+line: Name:	rcuos/40 
+line: State:	S (sleeping) 
+line: Tgid:	182 
+line: Pid:	182 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 182, Name: rcuos/40
+path: /proc/183/status
+line: Name:	rcuos/41 
+line: State:	S (sleeping) 
+line: Tgid:	183 
+line: Pid:	183 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 183, Name: rcuos/41
+path: /proc/184/status
+line: Name:	rcuos/42 
+line: State:	S (sleeping) 
+line: Tgid:	184 
+line: Pid:	184 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 184, Name: rcuos/42
+path: /proc/185/status
+line: Name:	rcuos/43 
+line: State:	S (sleeping) 
+line: Tgid:	185 
+line: Pid:	185 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 185, Name: rcuos/43
+path: /proc/186/status
+line: Name:	rcuos/44 
+line: State:	S (sleeping) 
+line: Tgid:	186 
+line: Pid:	186 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 186, Name: rcuos/44
+path: /proc/187/status
+line: Name:	rcuos/45 
+line: State:	S (sleeping) 
+line: Tgid:	187 
+line: Pid:	187 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 187, Name: rcuos/45
+path: /proc/188/status
+line: Name:	rcuos/46 
+line: State:	S (sleeping) 
+line: Tgid:	188 
+line: Pid:	188 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 188, Name: rcuos/46
+path: /proc/189/status
+line: Name:	rcuos/47 
+line: State:	S (sleeping) 
+line: Tgid:	189 
+line: Pid:	189 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 189, Name: rcuos/47
+path: /proc/190/status
+line: Name:	rcuos/48 
+line: State:	S (sleeping) 
+line: Tgid:	190 
+line: Pid:	190 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 190, Name: rcuos/48
+path: /proc/191/status
+line: Name:	rcuos/49 
+line: State:	S (sleeping) 
+line: Tgid:	191 
+line: Pid:	191 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 191, Name: rcuos/49
+path: /proc/192/status
+line: Name:	rcuos/50 
+line: State:	S (sleeping) 
+line: Tgid:	192 
+line: Pid:	192 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 192, Name: rcuos/50
+path: /proc/193/status
+line: Name:	rcuos/51 
+line: State:	S (sleeping) 
+line: Tgid:	193 
+line: Pid:	193 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 193, Name: rcuos/51
+path: /proc/194/status
+line: Name:	rcuos/52 
+line: State:	S (sleeping) 
+line: Tgid:	194 
+line: Pid:	194 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 194, Name: rcuos/52
+path: /proc/195/status
+line: Name:	rcuos/53 
+line: State:	S (sleeping) 
+line: Tgid:	195 
+line: Pid:	195 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 195, Name: rcuos/53
+path: /proc/196/status
+line: Name:	rcuos/54 
+line: State:	S (sleeping) 
+line: Tgid:	196 
+line: Pid:	196 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 196, Name: rcuos/54
+path: /proc/197/status
+line: Name:	rcuos/55 
+line: State:	S (sleeping) 
+line: Tgid:	197 
+line: Pid:	197 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 197, Name: rcuos/55
+path: /proc/198/status
+line: Name:	rcuos/56 
+line: State:	S (sleeping) 
+line: Tgid:	198 
+line: Pid:	198 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 198, Name: rcuos/56
+path: /proc/199/status
+line: Name:	rcuos/57 
+line: State:	S (sleeping) 
+line: Tgid:	199 
+line: Pid:	199 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 199, Name: rcuos/57
+path: /proc/200/status
+line: Name:	rcuos/58 
+line: State:	S (sleeping) 
+line: Tgid:	200 
+line: Pid:	200 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 200, Name: rcuos/58
+path: /proc/201/status
+line: Name:	rcuos/59 
+line: State:	S (sleeping) 
+line: Tgid:	201 
+line: Pid:	201 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 201, Name: rcuos/59
+path: /proc/202/status
+line: Name:	rcuos/60 
+line: State:	S (sleeping) 
+line: Tgid:	202 
+line: Pid:	202 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 202, Name: rcuos/60
+path: /proc/203/status
+line: Name:	rcuos/61 
+line: State:	S (sleeping) 
+line: Tgid:	203 
+line: Pid:	203 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 203, Name: rcuos/61
+path: /proc/204/status
+line: Name:	rcuos/62 
+line: State:	S (sleeping) 
+line: Tgid:	204 
+line: Pid:	204 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 204, Name: rcuos/62
+path: /proc/205/status
+line: Name:	rcuos/63 
+line: State:	S (sleeping) 
+line: Tgid:	205 
+line: Pid:	205 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 205, Name: rcuos/63
+path: /proc/206/status
+line: Name:	watchdog/0 
+line: State:	S (sleeping) 
+line: Tgid:	206 
+line: Pid:	206 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 206, Name: watchdog/0
+path: /proc/207/status
+line: Name:	khelper 
+line: State:	S (sleeping) 
+line: Tgid:	207 
+line: Pid:	207 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 207, Name: khelper
+path: /proc/208/status
+line: Name:	kdevtmpfs 
+line: State:	S (sleeping) 
+line: Tgid:	208 
+line: Pid:	208 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 208, Name: kdevtmpfs
+path: /proc/209/status
+line: Name:	netns 
+line: State:	S (sleeping) 
+line: Tgid:	209 
+line: Pid:	209 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 209, Name: netns
+path: /proc/210/status
+line: Name:	writeback 
+line: State:	S (sleeping) 
+line: Tgid:	210 
+line: Pid:	210 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 210, Name: writeback
+path: /proc/211/status
+line: Name:	kintegrityd 
+line: State:	S (sleeping) 
+line: Tgid:	211 
+line: Pid:	211 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 211, Name: kintegrityd
+path: /proc/212/status
+line: Name:	bioset 
+line: State:	S (sleeping) 
+line: Tgid:	212 
+line: Pid:	212 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 212, Name: bioset
+path: /proc/213/status
+line: Name:	kblockd 
+line: State:	S (sleeping) 
+line: Tgid:	213 
+line: Pid:	213 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 213, Name: kblockd
+path: /proc/214/status
+line: Name:	ata_sff 
+line: State:	S (sleeping) 
+line: Tgid:	214 
+line: Pid:	214 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 214, Name: ata_sff
+path: /proc/215/status
+line: Name:	khubd 
+line: State:	S (sleeping) 
+line: Tgid:	215 
+line: Pid:	215 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 215, Name: khubd
+path: /proc/216/status
+line: Name:	md 
+line: State:	S (sleeping) 
+line: Tgid:	216 
+line: Pid:	216 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 216, Name: md
+path: /proc/218/status
+line: Name:	khungtaskd 
+line: State:	S (sleeping) 
+line: Tgid:	218 
+line: Pid:	218 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 218, Name: khungtaskd
+path: /proc/219/status
+line: Name:	kswapd0 
+line: State:	S (sleeping) 
+line: Tgid:	219 
+line: Pid:	219 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 219, Name: kswapd0
+path: /proc/220/status
+line: Name:	ksmd 
+line: State:	S (sleeping) 
+line: Tgid:	220 
+line: Pid:	220 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 220, Name: ksmd
+path: /proc/221/status
+line: Name:	khugepaged 
+line: State:	S (sleeping) 
+line: Tgid:	221 
+line: Pid:	221 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 221, Name: khugepaged
+path: /proc/222/status
+line: Name:	fsnotify_mark 
+line: State:	S (sleeping) 
+line: Tgid:	222 
+line: Pid:	222 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 222, Name: fsnotify_mark
+path: /proc/223/status
+line: Name:	crypto 
+line: State:	S (sleeping) 
+line: Tgid:	223 
+line: Pid:	223 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 223, Name: crypto
+path: /proc/228/status
+line: Name:	kthrotld 
+line: State:	S (sleeping) 
+line: Tgid:	228 
+line: Pid:	228 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 228, Name: kthrotld
+path: /proc/229/status
+line: Name:	kpsmoused 
+line: State:	S (sleeping) 
+line: Tgid:	229 
+line: Pid:	229 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 229, Name: kpsmoused
+path: /proc/231/status
+line: Name:	deferwq 
+line: State:	S (sleeping) 
+line: Tgid:	231 
+line: Pid:	231 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 231, Name: deferwq
+path: /proc/267/status
+line: Name:	kmpath_rdacd 
+line: State:	S (sleeping) 
+line: Tgid:	267 
+line: Pid:	267 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 267, Name: kmpath_rdacd
+path: /proc/289/status
+line: Name:	ttm_swap 
+line: State:	S (sleeping) 
+line: Tgid:	289 
+line: Pid:	289 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 289, Name: ttm_swap
+path: /proc/290/status
+line: Name:	mpt_poll_0 
+line: State:	S (sleeping) 
+line: Tgid:	290 
+line: Pid:	290 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 290, Name: mpt_poll_0
+path: /proc/291/status
+line: Name:	mpt/0 
+line: State:	S (sleeping) 
+line: Tgid:	291 
+line: Pid:	291 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 291, Name: mpt/0
+path: /proc/298/status
+line: Name:	scsi_eh_0 
+line: State:	S (sleeping) 
+line: Tgid:	298 
+line: Pid:	298 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 298, Name: scsi_eh_0
+path: /proc/301/status
+line: Name:	kworker/0:1H 
+line: State:	S (sleeping) 
+line: Tgid:	301 
+line: Pid:	301 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 301, Name: kworker/0:1H
+path: /proc/368/status
+line: Name:	jbd2/sda2-8 
+line: State:	S (sleeping) 
+line: Tgid:	368 
+line: Pid:	368 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 368, Name: jbd2/sda2-8
+path: /proc/369/status
+line: Name:	ext4-rsv-conver 
+line: State:	S (sleeping) 
+line: Tgid:	369 
+line: Pid:	369 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 369, Name: ext4-rsv-conver
+path: /proc/370/status
+line: Name:	ext4-unrsv-conv 
+line: State:	S (sleeping) 
+line: Tgid:	370 
+line: Pid:	370 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 370, Name: ext4-unrsv-conv
+path: /proc/407/status
+line: Name:	systemd-journal 
+line: State:	S (sleeping) 
+line: Tgid:	407 
+line: Pid:	407 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 407, Name: systemd-journal
+path: /proc/408/status
+line: Name:	kauditd 
+line: State:	S (sleeping) 
+line: Tgid:	408 
+line: Pid:	408 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 408, Name: kauditd
+path: /proc/439/status
+line: Name:	systemd-udevd 
+line: State:	S (sleeping) 
+line: Tgid:	439 
+line: Pid:	439 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 439, Name: systemd-udevd
+path: /proc/471/status
+line: Name:	scsi_eh_1 
+line: State:	S (sleeping) 
+line: Tgid:	471 
+line: Pid:	471 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 471, Name: scsi_eh_1
+path: /proc/472/status
+line: Name:	scsi_eh_2 
+line: State:	S (sleeping) 
+line: Tgid:	472 
+line: Pid:	472 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 472, Name: scsi_eh_2
+path: /proc/546/status
+line: Name:	jbd2/sda3-8 
+line: State:	S (sleeping) 
+line: Tgid:	546 
+line: Pid:	546 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 546, Name: jbd2/sda3-8
+path: /proc/547/status
+line: Name:	ext4-rsv-conver 
+line: State:	S (sleeping) 
+line: Tgid:	547 
+line: Pid:	547 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 547, Name: ext4-rsv-conver
+path: /proc/548/status
+line: Name:	ext4-unrsv-conv 
+line: State:	S (sleeping) 
+line: Tgid:	548 
+line: Pid:	548 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 548, Name: ext4-unrsv-conv
+path: /proc/716/status
+line: Name:	avahi-daemon 
+line: State:	S (sleeping) 
+line: Tgid:	716 
+line: Pid:	716 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	492	492	492	492 
+path: /proc/718/status
+line: Name:	ModemManager 
+line: State:	S (sleeping) 
+line: Tgid:	718 
+line: Pid:	718 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 718, Name: ModemManager
+path: /proc/719/status
+line: Name:	nscd 
+line: State:	S (sleeping) 
+line: Tgid:	719 
+line: Pid:	719 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	495	495	495	495 
+path: /proc/745/status
+line: Name:	wpa_supplicant 
+line: State:	S (sleeping) 
+line: Tgid:	745 
+line: Pid:	745 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 745, Name: wpa_supplicant
+path: /proc/747/status
+line: Name:	dbus-daemon 
+line: State:	S (sleeping) 
+line: Tgid:	747 
+line: Pid:	747 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	498	498	498	498 
+path: /proc/748/status
+line: Name:	systemd-logind 
+line: State:	S (sleeping) 
+line: Tgid:	748 
+line: Pid:	748 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 748, Name: systemd-logind
+path: /proc/763/status
+line: Name:	vmware-vmblock- 
+line: State:	S (sleeping) 
+line: Tgid:	763 
+line: Pid:	763 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 763, Name: vmware-vmblock-
+path: /proc/773/status
+line: Name:	rsyslogd 
+line: State:	S (sleeping) 
+line: Tgid:	773 
+line: Pid:	773 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 773, Name: rsyslogd
+path: /proc/778/status
+line: Name:	vmtoolsd 
+line: State:	S (sleeping) 
+line: Tgid:	778 
+line: Pid:	778 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 778, Name: vmtoolsd
+path: /proc/792/status
+line: Name:	polkitd 
+line: State:	S (sleeping) 
+line: Tgid:	792 
+line: Pid:	792 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	490	490	490	490 
+path: /proc/798/status
+line: Name:	kdm 
+line: State:	S (sleeping) 
+line: Tgid:	798 
+line: Pid:	798 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 798, Name: kdm
+path: /proc/827/status
+line: Name:	Xorg 
+line: State:	S (sleeping) 
+line: Tgid:	827 
+line: Pid:	827 
+line: PPid:	798 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 827, Name: Xorg
+path: /proc/1119/status
+line: Name:	kdm 
+line: State:	S (sleeping) 
+line: Tgid:	1119 
+line: Pid:	1119 
+line: PPid:	798 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 1119, Name: kdm
+path: /proc/1435/status
+line: Name:	dhclient6 
+line: State:	S (sleeping) 
+line: Tgid:	1435 
+line: Pid:	1435 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 1435, Name: dhclient6
+path: /proc/1967/status
+line: Name:	avahi-autoipd 
+line: State:	S (sleeping) 
+line: Tgid:	1967 
+line: Pid:	1967 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	499	499	499	499 
+path: /proc/1968/status
+line: Name:	avahi-autoipd 
+line: State:	S (sleeping) 
+line: Tgid:	1968 
+line: Pid:	1968 
+line: PPid:	1967 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 1968, Name: avahi-autoipd
+path: /proc/2052/status
+line: Name:	dhcpcd 
+line: State:	S (sleeping) 
+line: Tgid:	2052 
+line: Pid:	2052 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 2052, Name: dhcpcd
+path: /proc/3015/status
+line: Name:	agetty 
+line: State:	S (sleeping) 
+line: Tgid:	3015 
+line: Pid:	3015 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3015, Name: agetty
+path: /proc/3025/status
+line: Name:	sshd 
+line: State:	S (sleeping) 
+line: Tgid:	3025 
+line: Pid:	3025 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3025, Name: sshd
+path: /proc/3179/status
+line: Name:	master 
+line: State:	S (sleeping) 
+line: Tgid:	3179 
+line: Pid:	3179 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3179, Name: master
+path: /proc/3190/status
+line: Name:	qmgr 
+line: State:	S (sleeping) 
+line: Tgid:	3190 
+line: Pid:	3190 
+line: PPid:	3179 
+line: TracerPid:	0 
+line: Uid:	51	51	51	51 
+path: /proc/3192/status
+line: Name:	cron 
+line: State:	S (sleeping) 
+line: Tgid:	3192 
+line: Pid:	3192 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3192, Name: cron
+path: /proc/3206/status
+line: Name:	systemd 
+line: State:	S (sleeping) 
+line: Tgid:	3206 
+line: Pid:	3206 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3206, Name: systemd
+path: /proc/3207/status
+line: Name:	startkde 
+line: State:	S (sleeping) 
+line: Tgid:	3207 
+line: Pid:	3207 
+line: PPid:	1119 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3207, Name: startkde
+path: /proc/3209/status
+line: Name:	(sd-pam) 
+line: State:	S (sleeping) 
+line: Tgid:	3209 
+line: Pid:	3209 
+line: PPid:	3206 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3209, Name: (sd-pam)
+path: /proc/3236/status
+line: Name:	dbus-launch 
+line: State:	S (sleeping) 
+line: Tgid:	3236 
+line: Pid:	3236 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3236, Name: dbus-launch
+path: /proc/3237/status
+line: Name:	dbus-daemon 
+line: State:	S (sleeping) 
+line: Tgid:	3237 
+line: Pid:	3237 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3237, Name: dbus-daemon
+path: /proc/3286/status
+line: Name:	gpg-agent 
+line: State:	S (sleeping) 
+line: Tgid:	3286 
+line: Pid:	3286 
+line: PPid:	3207 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3286, Name: gpg-agent
+path: /proc/3287/status
+line: Name:	ssh-agent 
+line: State:	S (sleeping) 
+line: Tgid:	3287 
+line: Pid:	3287 
+line: PPid:	3207 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3287, Name: ssh-agent
+path: /proc/3327/status
+line: Name:	start_kdeinit 
+line: State:	S (sleeping) 
+line: Tgid:	3327 
+line: Pid:	3327 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3327, Name: start_kdeinit
+path: /proc/3328/status
+line: Name:	kdeinit4 
+line: State:	S (sleeping) 
+line: Tgid:	3328 
+line: Pid:	3328 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3328, Name: kdeinit4
+path: /proc/3333/status
+line: Name:	sogou-qimpanel- 
+line: State:	S (sleeping) 
+line: Tgid:	3333 
+line: Pid:	3333 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3333, Name: sogou-qimpanel-
+path: /proc/3334/status
+line: Name:	klauncher 
+line: State:	S (sleeping) 
+line: Tgid:	3334 
+line: Pid:	3334 
+line: PPid:	3328 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3334, Name: klauncher
+path: /proc/3336/status
+line: Name:	kded4 
+line: State:	S (sleeping) 
+line: Tgid:	3336 
+line: Pid:	3336 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3336, Name: kded4
+path: /proc/3388/status
+line: Name:	kglobalaccel 
+line: State:	S (sleeping) 
+line: Tgid:	3388 
+line: Pid:	3388 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3388, Name: kglobalaccel
+path: /proc/3391/status
+line: Name:	kwalletd 
+line: State:	S (sleeping) 
+line: Tgid:	3391 
+line: Pid:	3391 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3391, Name: kwalletd
+path: /proc/3396/status
+line: Name:	kactivitymanage 
+line: State:	S (sleeping) 
+line: Tgid:	3396 
+line: Pid:	3396 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3396, Name: kactivitymanage
+path: /proc/3397/status
+line: Name:	upowerd 
+line: State:	S (sleeping) 
+line: Tgid:	3397 
+line: Pid:	3397 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3397, Name: upowerd
+path: /proc/3403/status
+line: Name:	kwrapper4 
+line: State:	S (sleeping) 
+line: Tgid:	3403 
+line: Pid:	3403 
+line: PPid:	3207 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3403, Name: kwrapper4
+path: /proc/3408/status
+line: Name:	ksmserver 
+line: State:	S (sleeping) 
+line: Tgid:	3408 
+line: Pid:	3408 
+line: PPid:	3328 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3408, Name: ksmserver
+path: /proc/3445/status
+line: Name:	udisksd 
+line: State:	S (sleeping) 
+line: Tgid:	3445 
+line: Pid:	3445 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3445, Name: udisksd
+path: /proc/3465/status
+line: Name:	kwin 
+line: State:	S (sleeping) 
+line: Tgid:	3465 
+line: Pid:	3465 
+line: PPid:	3408 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3465, Name: kwin
+path: /proc/3469/status
+line: Name:	plasma-desktop 
+line: State:	S (sleeping) 
+line: Tgid:	3469 
+line: Pid:	3469 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3469, Name: plasma-desktop
+path: /proc/3472/status
+line: Name:	knotify4 
+line: State:	S (sleeping) 
+line: Tgid:	3472 
+line: Pid:	3472 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3472, Name: knotify4
+path: /proc/3476/status
+line: Name:	ksysguardd 
+line: State:	S (sleeping) 
+line: Tgid:	3476 
+line: Pid:	3476 
+line: PPid:	3469 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3476, Name: ksysguardd
+path: /proc/3480/status
+line: Name:	kuiserver 
+line: State:	S (sleeping) 
+line: Tgid:	3480 
+line: Pid:	3480 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3480, Name: kuiserver
+path: /proc/3494/status
+line: Name:	nepomukserver 
+line: State:	S (sleeping) 
+line: Tgid:	3494 
+line: Pid:	3494 
+line: PPid:	3328 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3494, Name: nepomukserver
+path: /proc/3496/status
+line: Name:	vmtoolsd 
+line: State:	S (sleeping) 
+line: Tgid:	3496 
+line: Pid:	3496 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3496, Name: vmtoolsd
+path: /proc/3499/status
+line: Name:	nepomukstorage 
+line: State:	S (sleeping) 
+line: Tgid:	3499 
+line: Pid:	3499 
+line: PPid:	3494 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3499, Name: nepomukstorage
+path: /proc/3503/status
+line: Name:	krunner 
+line: State:	S (sleeping) 
+line: Tgid:	3503 
+line: Pid:	3503 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3503, Name: krunner
+path: /proc/3504/status
+line: Name:	kmix 
+line: State:	S (sleeping) 
+line: Tgid:	3504 
+line: Pid:	3504 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3504, Name: kmix
+path: /proc/3515/status
+line: Name:	polkit-kde-auth 
+line: State:	S (sleeping) 
+line: Tgid:	3515 
+line: Pid:	3515 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3515, Name: polkit-kde-auth
+path: /proc/3516/status
+line: Name:	klipper 
+line: State:	S (sleeping) 
+line: Tgid:	3516 
+line: Pid:	3516 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3516, Name: klipper
+path: /proc/3526/status
+line: Name:	gvfsd 
+line: State:	S (sleeping) 
+line: Tgid:	3526 
+line: Pid:	3526 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3526, Name: gvfsd
+path: /proc/3529/status
+line: Name:	pulseaudio 
+line: State:	S (sleeping) 
+line: Tgid:	3529 
+line: Pid:	3529 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3529, Name: pulseaudio
+path: /proc/3535/status
+line: Name:	gvfsd-fuse 
+line: State:	S (sleeping) 
+line: Tgid:	3535 
+line: Pid:	3535 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3535, Name: gvfsd-fuse
+path: /proc/3543/status
+line: Name:	bluetoothd 
+line: State:	S (sleeping) 
+line: Tgid:	3543 
+line: Pid:	3543 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3543, Name: bluetoothd
+path: /proc/3562/status
+line: Name:	virtuoso-t 
+line: State:	S (sleeping) 
+line: Tgid:	3562 
+line: Pid:	3562 
+line: PPid:	3499 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3562, Name: virtuoso-t
+path: /proc/3571/status
+line: Name:	nepomukfilewatc 
+line: State:	S (sleeping) 
+line: Tgid:	3571 
+line: Pid:	3571 
+line: PPid:	3494 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3571, Name: nepomukfilewatc
+path: /proc/3582/status
+line: Name:	konsole 
+line: State:	S (sleeping) 
+line: Tgid:	3582 
+line: Pid:	3582 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3582, Name: konsole
+path: /proc/3585/status
+line: Name:	bash 
+line: State:	S (sleeping) 
+line: Tgid:	3585 
+line: Pid:	3585 
+line: PPid:	3582 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3585, Name: bash
+path: /proc/3691/status
+line: Name:	at-spi-bus-laun 
+line: State:	S (sleeping) 
+line: Tgid:	3691 
+line: Pid:	3691 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3691, Name: at-spi-bus-laun
+path: /proc/3695/status
+line: Name:	dbus-daemon 
+line: State:	S (sleeping) 
+line: Tgid:	3695 
+line: Pid:	3695 
+line: PPid:	3691 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3695, Name: dbus-daemon
+path: /proc/3698/status
+line: Name:	at-spi2-registr 
+line: State:	S (sleeping) 
+line: Tgid:	3698 
+line: Pid:	3698 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3698, Name: at-spi2-registr
+path: /proc/3702/status
+line: Name:	gconfd-2 
+line: State:	S (sleeping) 
+line: Tgid:	3702 
+line: Pid:	3702 
+line: PPid:	1 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3702, Name: gconfd-2
+path: /proc/3958/status
+line: Name:	bash 
+line: State:	S (sleeping) 
+line: Tgid:	3958 
+line: Pid:	3958 
+line: PPid:	3582 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 3958, Name: bash
+path: /proc/19476/status
+line: Name:	kworker/u128:0 
+line: State:	S (sleeping) 
+line: Tgid:	19476 
+line: Pid:	19476 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 19476, Name: kworker/u128:0
+path: /proc/19618/status
+line: Name:	emacs-gtk 
+line: State:	S (sleeping) 
+line: Tgid:	19618 
+line: Pid:	19618 
+line: PPid:	3585 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 19618, Name: emacs-gtk
+path: /proc/19631/status
+line: Name:	hunspell 
+line: State:	S (sleeping) 
+line: Tgid:	19631 
+line: Pid:	19631 
+line: PPid:	19618 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 19631, Name: hunspell
+path: /proc/20248/status
+line: Name:	kworker/u128:1 
+line: State:	S (sleeping) 
+line: Tgid:	20248 
+line: Pid:	20248 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 20248, Name: kworker/u128:1
+path: /proc/21232/status
+line: Name:	kio_file 
+line: State:	S (sleeping) 
+line: Tgid:	21232 
+line: Pid:	21232 
+line: PPid:	3328 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 21232, Name: kio_file
+path: /proc/21398/status
+line: Name:	kworker/0:3 
+line: State:	S (sleeping) 
+line: Tgid:	21398 
+line: Pid:	21398 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 21398, Name: kworker/0:3
+path: /proc/22322/status
+line: Name:	vi 
+line: State:	S (sleeping) 
+line: Tgid:	22322 
+line: Pid:	22322 
+line: PPid:	64353 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 22322, Name: vi
+path: /proc/22323/status
+line: Name:	kworker/0:0 
+line: State:	S (sleeping) 
+line: Tgid:	22323 
+line: Pid:	22323 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 22323, Name: kworker/0:0
+path: /proc/22916/status
+line: Name:	kworker/0:1 
+line: State:	S (sleeping) 
+line: Tgid:	22916 
+line: Pid:	22916 
+line: PPid:	2 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 22916, Name: kworker/0:1
+path: /proc/23065/status
+line: Name:	proc_list 
+line: State:	R (running) 
+line: Tgid:	23065 
+line: Pid:	23065 
+line: PPid:	3958 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 23065, Name: proc_list
+path: /proc/54887/status
+line: Name:	dolphin 
+line: State:	S (sleeping) 
+line: Tgid:	54887 
+line: Pid:	54887 
+line: PPid:	3328 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 54887, Name: dolphin
+path: /proc/54900/status
+line: Name:	kwrite 
+line: State:	S (sleeping) 
+line: Tgid:	54900 
+line: Pid:	54900 
+line: PPid:	3328 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 54900, Name: kwrite
+path: /proc/64353/status
+line: Name:	bash 
+line: State:	S (sleeping) 
+line: Tgid:	64353 
+line: Pid:	64353 
+line: PPid:	3582 
+line: TracerPid:	0 
+line: Uid:	0	0	0	0 
+PID: 64353, Name: bash
